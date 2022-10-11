@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Silja George</title>
+    <link>https://Silja-GeorgePR.github.io/Silja_Portfolio/post/</link>
+    <description>Recent content in Projects on Silja George</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://Silja-GeorgePR.github.io/Silja_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Supervised learning using Iris dataset</title>
+      <link>https://Silja-GeorgePR.github.io/Silja_Portfolio/post/project-1/</link>
+      <pubDate>Sun, 14 Aug 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://Silja-GeorgePR.github.io/Silja_Portfolio/post/project-1/</guid>
+      <description> Read the dataset to the python environment Done pre processing the dataset Outliers were handled Performed three classifications over the dataset. It includes the logistic regression, random forest and SVM. An instance of classification of iris dataset link to GitHub Repository </description>
+    </item>
+    
+    <item>
+      <title>Project 2: Pre-processing of a dataset (Titanic dataset)</title>
+      <link>https://Silja-GeorgePR.github.io/Silja_Portfolio/post/project-2/</link>
+      <pubDate>Sun, 10 Jul 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://Silja-GeorgePR.github.io/Silja_Portfolio/post/project-2/</guid>
+      <description> Loaded the dataset into python environment Fixed the index column Displayed the basic details presented in the dataset Missing values are handled by appending mean as the default value Outliers were checked and handled Min-Max scaling normalization were performed for model fitting Representation of outliers on the Titanic dataset link to GitHub Repository </description>
+    </item>
+    
+  </channel>
+</rss>
